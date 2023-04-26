@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980712435068",
+    "project_id": "lucri-cd5b2",
+    "storage_bucket": "lucri-cd5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980712435068:android:f4353d00639e90eb5008f9",
+        "android_client_info": {
+          "package_name": "com.example.lucri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980712435068-0na93cd6hutunfe8e02vv4g0ot4vlhkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCzo383DIfgDkiPvyBzO6XSQv0dxaWQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980712435068-0na93cd6hutunfe8e02vv4g0ot4vlhkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
